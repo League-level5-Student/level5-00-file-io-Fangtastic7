@@ -61,3 +61,5 @@ public class Serialization {
 		}
 	}
 }
+
+//Copyright © 2020 Max Fang

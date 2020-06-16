@@ -43,3 +43,5 @@ public class FileEncryptor {
 		}
 	}
 }
+
+//Copyright © 2020 Max Fang

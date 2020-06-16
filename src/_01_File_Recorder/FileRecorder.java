@@ -18,3 +18,5 @@ public class FileRecorder {
 		}
 	}
 }
+
+//Copyright © 2020 Max Fang

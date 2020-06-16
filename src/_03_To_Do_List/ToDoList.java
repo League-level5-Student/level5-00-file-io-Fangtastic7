@@ -157,3 +157,5 @@ public class ToDoList implements ActionListener {
 		list.add(entry);
 	}
 }
+
+//Copyright © 2020 Max Fang
