@@ -18,7 +18,7 @@ import static org.junit.Assert.assertEquals;
  * Challenge: Complete the SaveData class so that the test passes.
  */
 public class Serialization {
-	private static final String DATA_FILE = "src/_04_Serialization/saved.dat";
+	private static final String DATA_FILE = "src/_05_Serialization/saved.dat";
 
 	@Test
 	public void test() {
@@ -36,7 +36,7 @@ public class Serialization {
 	}
 
 	/*
-	 * One simple way to save a serializable object to a file is using a FileOutputStream
+	 * One simple way to save a serializable object to a file is using a FileOutptStream
 	 * and ObjectOutputStream.
 	 */
 	private static void save(SaveData data) {
